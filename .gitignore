@@ -1,0 +1,7 @@
+# Excluir a pasta node_modules
+node_modules/
+
+# Outras exclusões comuns
+*.log
+.env
+
